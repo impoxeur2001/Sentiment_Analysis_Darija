@@ -40,7 +40,7 @@ python app.py
 ```python
 import requests
 
-url = 'http://localhost:5000/predict?name='
+url = 'http://localhost:5000/predict?phrase='
 data = 'film mzian hada 3jboni chakhsiat'
 response = requests.post(url+data, json=data)
 
