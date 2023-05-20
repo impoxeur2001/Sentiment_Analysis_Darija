@@ -1,0 +1,4 @@
+torch==1.8.1
+transformers==4.6.1
+aaransia==0.6.0
+Flask==2.0.1
